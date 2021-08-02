@@ -2,7 +2,7 @@
   "name": "aws-serverless-rest",
   "version": "1.0.0",
   "description": "",
-  "main": "database.js",
+  "main": "handler.js",
   "dependencies": {
     "dotenv": "^10.0.0",
     "mongoose": "^5.13.5",
